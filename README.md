@@ -4,3 +4,6 @@ The code implements the BLLIP metric which is an automatic machine translation e
 This code uses the Hindi Dependency Parser designed by Siva Reddy to parse the candidate and reference sentences and get the dependency 
 tags for them in two different output files (one for candidate and anither for reference sentences).
 Source:  http://sivareddy.in/downloads
+
+The reference paper used is:
+Pozar, Michael & Charniak, Eugene. (2018). Bllip: An Improved Evaluation Metric for Machine Translation. 
